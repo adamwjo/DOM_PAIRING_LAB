@@ -23,6 +23,7 @@ https://share.getcloudapp.com/d5upe6pJ
 ### Things to keep in mind
 
 - Use the lecture code as a reference!
+- The stylesheet is boostrap, so if you have trouble with changing style, look there.
 - Experiment with selectors, and different ways to manipulate nodes!
 - Figure out different ways to do the same thing / why you would use one method over another.
 - Even if one person is "driving", you should still code along!
